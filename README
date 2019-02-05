@@ -1,0 +1,6 @@
+For this code to work, you need to create a config.json file in the same directory with the following content:
+
+{
+"token": "token from the BotFather",
+"path": "path to scripts folder"
+}
